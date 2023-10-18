@@ -103,6 +103,7 @@ html, body {
         border: 2px solid rgb(55, 4, 67); /* Specify the border style (solid) and color (black) */
         display: flex;
         flex-direction: row;
+        margin-bottom: 10px;
     
     
     
@@ -116,4 +117,6 @@ html, body {
 .fr ul{
     list-style-type: none;
 }
-li:before { content: '\1F5F8'; margin-left: -20px; margin-right: 10px; } 
+li:before { content: '\1F5F8'; margin-left: -20px; margin-right: 10px; 
+}
+
