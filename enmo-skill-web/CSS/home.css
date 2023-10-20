@@ -4,7 +4,7 @@ html, body {
     margin-bottom: 0%;
     padding: 0;
 }
-.main{
+/*.main{
     display: flex;
     flex-direction: column;
     padding-top: 10px;
@@ -13,10 +13,10 @@ html, body {
     justify-content: center;
     align-items: center;
     background-color: rgb(256, 256, 256);
-}
+}*/
 
 .graphic{
-    margin-top: 500pxpx;
+    margin-top: 500px;
     height:500px;
     width: 1200px;
     display: flex;
